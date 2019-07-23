@@ -18,5 +18,7 @@
 </head>
 <body>
     <h1>¡Felicidades! El sitio web funciona :D</h1>
+    <br>
+<h2>Que bacan</h2>
 </body>
 </html>
